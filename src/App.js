@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Template for MyKitchen app
+          Template for MyKitchen app in feature branch
         </p>
         <a
           className="App-link"
